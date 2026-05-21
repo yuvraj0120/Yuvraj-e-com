@@ -1,0 +1,23 @@
+/** Indian states / UTs for checkout billing (value = stored code). */
+export const INDIAN_STATES = [
+  { value: "WB", label: "West Bengal" },
+  { value: "DL", label: "Delhi" },
+  { value: "MH", label: "Maharashtra" },
+  { value: "KA", label: "Karnataka" },
+  { value: "TN", label: "Tamil Nadu" },
+  { value: "GJ", label: "Gujarat" },
+  { value: "UP", label: "Uttar Pradesh" },
+  { value: "RJ", label: "Rajasthan" },
+  { value: "BR", label: "Bihar" },
+  { value: "AP", label: "Andhra Pradesh" },
+  { value: "TG", label: "Telangana" },
+  { value: "KL", label: "Kerala" },
+  { value: "MP", label: "Madhya Pradesh" },
+  { value: "OR", label: "Odisha" },
+  { value: "AS", label: "Assam" },
+  { value: "PB", label: "Punjab" },
+  { value: "HR", label: "Haryana" },
+  { value: "JH", label: "Jharkhand" },
+  { value: "CT", label: "Chhattisgarh" },
+  { value: "OTHER", label: "Other" },
+] as const
