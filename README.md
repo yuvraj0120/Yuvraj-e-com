@@ -1,4 +1,4 @@
-# MithuShop
+# Yuvraj-e-com
 
 E-commerce web app built with **Next.js (App Router)**, **Prisma**, and **NextAuth**.
 

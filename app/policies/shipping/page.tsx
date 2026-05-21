@@ -6,7 +6,7 @@ import { site } from "@/config/site"
 export const metadata: Metadata = {
   title: "Shipping Policy",
   description:
-    "Shipping procedures, carriers, rates, and delivery information for Mithu Mobile Center.",
+    "Shipping procedures, carriers, rates, and delivery information for Yuvraj-e-com Mobile Center.",
 }
 
 const contactEmail = site.contact.email
@@ -44,7 +44,7 @@ export default function ShippingPolicyPage() {
         <div className="space-y-10 text-[15px] leading-relaxed text-foreground/90">
           <section className="space-y-4">
             <p>
-              Thank you for visiting Mithu Mobile Center. We aim to provide a
+              Thank you for visiting Yuvraj-e-com Mobile Center. We aim to provide a
               smooth and reliable shipping experience for our customers. This
               policy outlines our shipping procedures, options, and other key
               information. Payment methods available for your order are shown at

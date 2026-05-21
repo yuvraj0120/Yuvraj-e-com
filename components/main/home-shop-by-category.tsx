@@ -10,7 +10,7 @@ function categoryImageUrl(name: string) {
     .trim()
     .replace(/\s+/g, "-")
     .replace(/[^a-z0-9-]/g, "")
-  const seed = slug ? `mithu-shop-cat-${slug}` : "mithu-shop-cat"
+  const seed = slug ? `Yuvraj-e-com-shop-cat-${slug}` : "Yuvraj-e-com-shop-cat"
   return `https://picsum.photos/seed/${encodeURIComponent(seed)}/800/800`
 }
 

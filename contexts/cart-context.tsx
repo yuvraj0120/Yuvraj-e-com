@@ -19,7 +19,7 @@ import type { CartLine, CartLineInput, PaymentMode } from "@/lib/cart-types"
 
 export type { CartLine, CartLineInput, PaymentMode } from "@/lib/cart-types"
 
-const STORAGE_KEY = "mithushop-cart-v2"
+const STORAGE_KEY = "Yuvraj-e-com-cart-v2"
 
 function normalizeInput(item: CartLineInput): CartLineInput {
   const paymentType: PaymentMode =
@@ -104,7 +104,7 @@ function migrateStoredRow(row: unknown): CartLine | null {
 function loadStored(): CartLine[] {
   if (typeof window === "undefined") return []
   try {
-    const tryKeys = [STORAGE_KEY, "mithushop-cart-v1"]
+    const tryKeys = [STORAGE_KEY, "Yuvraj-e-com-cart-v1"]
     for (const key of tryKeys) {
       const raw = localStorage.getItem(key)
       if (!raw) continue

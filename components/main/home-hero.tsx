@@ -9,10 +9,10 @@ import { cn } from "@/lib/utils"
 
 /** Up to 4 banners — Picsum seeds keep images stable; replace URLs with your assets. */
 const BANNER_IMAGES = [
-  "https://picsum.photos/seed/mithu-hero-1/1600/520",
-  "https://picsum.photos/seed/mithu-hero-2/1600/520",
-  "https://picsum.photos/seed/mithu-hero-3/1600/520",
-  "https://picsum.photos/seed/mithu-hero-4/1600/520",
+  "https://picsum.photos/seed/Yuvraj-e-com-hero-1/1600/520",
+  "https://picsum.photos/seed/Yuvraj-e-com-hero-2/1600/520",
+  "https://picsum.photos/seed/Yuvraj-e-com-hero-3/1600/520",
+  "https://picsum.photos/seed/Yuvraj-e-com-hero-4/1600/520",
 ] as const
 
 const ROTATE_MS = 5000

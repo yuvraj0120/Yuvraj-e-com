@@ -29,7 +29,7 @@ export default function PoliciesPage() {
                 Overview
               </h3>
               <p className="mt-3">
-                At mithumobilecente, we want you to be completely satisfied with
+                At Yuvraj-e-commobilecente, we want you to be completely satisfied with
                 your purchase. If you are not entirely satisfied, we&apos;re here
                 to help. This policy outlines the guidelines and procedures for
                 returns, refunds, and exchanges.

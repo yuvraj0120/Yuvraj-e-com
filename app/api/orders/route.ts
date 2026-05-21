@@ -29,7 +29,7 @@ type CreateOrderPayload = {
 }
 
 function buildOrderNumber() {
-  return `MITHU-${Date.now()}-${Math.floor(1000 + Math.random() * 9000)}`
+  return `Yuvraj-e-com-${Date.now()}-${Math.floor(1000 + Math.random() * 9000)}`
 }
 
 export async function POST(req: Request) {

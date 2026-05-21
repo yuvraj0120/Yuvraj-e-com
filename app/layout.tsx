@@ -74,7 +74,7 @@ export default async function RootLayout({
       <body className="min-h-full flex flex-col">
         <script
           dangerouslySetInnerHTML={{
-            __html: `window.__MITHU_CURRENCY__ = ${JSON.stringify(storeCurrency)};`,
+            __html: `window.__Yuvraj-e-com_CURRENCY__ = ${JSON.stringify(storeCurrency)};`,
           }}
         />
         <AppProviders>

@@ -28,7 +28,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Shop",
-  description: "Browse mobiles, accessories, audio, wearables, and smart home at Mithu Mobile Center.",
+  description: "Browse mobiles, accessories, audio, wearables, and smart home at Yuvraj-e-com Mobile Center.",
 }
 
 export default async function ShopPage({

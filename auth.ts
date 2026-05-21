@@ -10,7 +10,7 @@ export const authOptions: NextAuthOptions = {
   secret:
     process.env.NEXTAUTH_SECRET ??
     process.env.AUTH_SECRET ??
-    "mithushop-dev-stable-secret",
+    "Yuvraj-e-com-dev-stable-secret",
   adapter: PrismaAdapter(prisma),
   session: {
     strategy: "jwt",

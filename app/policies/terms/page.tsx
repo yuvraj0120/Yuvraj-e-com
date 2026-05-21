@@ -6,7 +6,7 @@ import { site } from "@/config/site"
 export const metadata: Metadata = {
   title: "Terms and Conditions",
   description:
-    "Terms and conditions for using Mithu Mobile Center website and services.",
+    "Terms and conditions for using Yuvraj-e-com Mobile Center website and services.",
 }
 
 const siteUrl = site.host
@@ -23,7 +23,7 @@ export default function TermsAndConditionsPage() {
           Terms and Conditions
         </h1>
         <p className="mb-10 text-center text-[15px] leading-relaxed text-muted-foreground">
-          Welcome to Mithu Mobile Center. By accessing or using our website{" "}
+          Welcome to Yuvraj-e-com Mobile Center. By accessing or using our website{" "}
           <span className="text-foreground">{siteUrl}</span> you agree to be
           bound by these terms and conditions. Please read them carefully.
         </p>
@@ -161,7 +161,7 @@ export default function TermsAndConditionsPage() {
               <li>
                 All content on our website, including text, images, logos, and
                 other media, is protected by intellectual property laws and
-                belongs to Mithu Mobile Center or its licensors.
+                belongs to Yuvraj-e-com Mobile Center or its licensors.
               </li>
               <li>
                 You may not use our content without our express written
@@ -210,7 +210,7 @@ export default function TermsAndConditionsPage() {
               10. Indemnification
             </h2>
             <p>
-              You agree to indemnify and hold harmless Mithu Mobile Center, its
+              You agree to indemnify and hold harmless Yuvraj-e-com Mobile Center, its
               affiliates, employees, and agents from any claims, damages, or
               losses arising from your use of our website or violation of these
               Terms.

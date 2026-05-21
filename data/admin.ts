@@ -187,7 +187,7 @@ export const adminProductRows: AdminProductRecord[] = [
     name: "Cotton Hoodie",
     sku: "PRD-1001",
     category: "Fashion",
-    brand: "MithuWear",
+    brand: "Yuvraj-e-comWear",
     stock: 52,
     mrp: 32,
     salePrice: 24,
@@ -243,9 +243,9 @@ export const adminNewProductDraft: AdminProductRecord = {
 }
 
 export const adminProfileData = {
-  name: "Mithu Saha",
+  name: "Yuvraj-e-com Saha",
   role: "Store Owner",
-  email: "mithu@example.com",
+  email: "Yuvraj-e-com@example.com",
   phone: "+91 90000 00000",
   location: "Belgharia, Kolkata",
   joined: "Jan 2024",

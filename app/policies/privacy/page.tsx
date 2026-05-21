@@ -7,7 +7,7 @@ import { site } from "@/config/site"
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "How Mithu Mobile Center (mithumobilecente) collects, uses, and protects your information.",
+    "How Yuvraj-e-com Mobile Center (Yuvraj-e-commobilecente) collects, uses, and protects your information.",
 }
 
 const lastUpdated = "April 25, 2024"
@@ -87,7 +87,7 @@ export default function PrivacyPolicyPage() {
                 <Def term="Company">
                   (referred to as either &quot;the Company&quot;, &quot;We&quot;,
                   &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to
-                  mithumobilecente.
+                  Yuvraj-e-commobilecente.
                 </Def>
                 <Def term="Cookies">
                   are small files that are placed on Your computer, mobile device
@@ -119,7 +119,7 @@ export default function PrivacyPolicyPage() {
                 </Def>
                 <Def term="Website">
                   <>
-                    refers to mithumobilecente, accessible from{" "}
+                    refers to Yuvraj-e-commobilecente, accessible from{" "}
                     <a
                       href={websiteUrl}
                       className="font-medium text-primary underline-offset-4 hover:underline"
